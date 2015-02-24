@@ -1,0 +1,4 @@
+Server		: Liferay Portal 6.2 CE GA2 bundled with tomcat7.0
+Database	: MySql5
+Frameworks      : SpringMvc3,Hibernate4.0
+Building Tool	: Maven
